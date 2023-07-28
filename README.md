@@ -36,6 +36,6 @@ The nanobots project is an ongoing endeavor, and there are several exciting goal
 
 ## Contact
 
-If you have any questions or inquiries about the project, please don't hesitate to contact us at [email protected] We are eager to collaborate, answer your queries, and welcome any feedback you might have.
+If you have any questions or inquiries about the project, please don't hesitate to contact us at laszanowskin@gmail.com We are eager to collaborate, answer your queries, and welcome any feedback you might have.
 
 Please note that this README is a starting point, and as the project progresses, you can enrich it with further details, technical insights, and updates about the development journey. Let's venture into the fascinating realm of nanobots and the possibilities they hold for the future!
